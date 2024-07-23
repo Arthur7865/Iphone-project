@@ -11,12 +11,13 @@ Navegador na Internet 🌐: Navegar na web, abrir novas abas e atualizar suas p�
 Diagrama UML
 Visualize a estrutura do nosso iPhone com um diagrama UML bacana, mostrando como tudo se conecta e funciona em harmonia. O diagrama inclui:
 
-ReprodutorMusical
-AparelhoTelefonico
-NavegadorInternet
-E a estrela do show, iPhone, que herda todas essas funcionalidades incríveis.
+- ReprodutorMusical
+- AparelhoTelefonico
+- NavegadorInternet
+- E a estrela do show, iPhone, que herda todas essas funcionalidades incríveis.
 Como fizemos isso?
 Usamos as melhores práticas de orientação a objetos para criar classes e interfaces que representam essas funcionalidades. Implementamos métodos essenciais e garantimos que nosso iPhone virtual funcione tão bem quanto o real (ou até melhor, quem sabe?). 😎
+---
 
 Testando Tudo
 E não paramos por aí! Criamos uma classe de teste para garantir que tudo esteja funcionando direitinho. Afinal, queremos que nosso iPhone virtual seja tão confiável quanto o de 2007.
